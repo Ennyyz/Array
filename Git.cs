@@ -46,7 +46,7 @@ namespace Git
                     }
                 }
             }
-            Console.WriteLine("Tổng các phần tử nằm trên đường chéo chính là: {0}", sum);
+            Console.WriteLine("Tổng các trên đường chéo chính là: {0}", sum);
             Console.WriteLine();
         }
         static void XuatMang(int[,] a)
